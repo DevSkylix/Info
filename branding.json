@@ -1,0 +1,12 @@
+{
+	"accent": {
+		"dark": {
+			"accent": "#FFFFFF",
+			"background": "#121212"
+		},
+		"light": {
+			"accent": "#121212",
+			"background": "#FFFFFF"
+		}
+	}
+}
