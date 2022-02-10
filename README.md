@@ -1,3 +1,3 @@
 ## Branding Information For SKYLIX
- - Accent Color: `#https://github.com/SkylixGH`
+ - Accent Color: `#BDE6FA`
  - Accent Background: `#121212` <br />
