@@ -1,1 +1,0 @@
-# Skylix Themed Logos
