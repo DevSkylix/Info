@@ -1,3 +1,3 @@
 ## Branding Information For SKYLIX
- - Accent Color: `#FFFFFF`
- - Accent Background: `#121212` <br />
+ - Accent Color: `#ff556e`
+ - Accent Background: `#202020` <br />
